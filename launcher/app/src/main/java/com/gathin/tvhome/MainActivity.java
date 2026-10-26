@@ -1984,7 +1984,7 @@ public class MainActivity extends Activity implements AppAdapter.TileListener {
                         labels[i].setTextColor(0xFF4ADE80);
                         if (times[i] != null) times[i].setTextColor(0xFF4ADE80);
                     } else {
-                        labels[i].setTextColor(0xB3FFFFFF);
+                        labels[i].setTextColor(0xFFFFFFFF);
                         if (times[i] != null) times[i].setTextColor(0xFFFFFFFF);
                     }
                 }
